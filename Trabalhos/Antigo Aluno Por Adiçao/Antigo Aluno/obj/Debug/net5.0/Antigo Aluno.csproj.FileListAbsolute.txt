@@ -1,0 +1,32 @@
+C:\Users\salva\Documents\Universidade\Semestre 2\AED\Antigo Aluno\Antigo Aluno\bin\Debug\net5.0\Antigo Aluno.exe
+C:\Users\salva\Documents\Universidade\Semestre 2\AED\Antigo Aluno\Antigo Aluno\bin\Debug\net5.0\Antigo Aluno.deps.json
+C:\Users\salva\Documents\Universidade\Semestre 2\AED\Antigo Aluno\Antigo Aluno\bin\Debug\net5.0\Antigo Aluno.runtimeconfig.json
+C:\Users\salva\Documents\Universidade\Semestre 2\AED\Antigo Aluno\Antigo Aluno\bin\Debug\net5.0\Antigo Aluno.runtimeconfig.dev.json
+C:\Users\salva\Documents\Universidade\Semestre 2\AED\Antigo Aluno\Antigo Aluno\bin\Debug\net5.0\Antigo Aluno.dll
+C:\Users\salva\Documents\Universidade\Semestre 2\AED\Antigo Aluno\Antigo Aluno\bin\Debug\net5.0\ref\Antigo Aluno.dll
+C:\Users\salva\Documents\Universidade\Semestre 2\AED\Antigo Aluno\Antigo Aluno\bin\Debug\net5.0\Antigo Aluno.pdb
+C:\Users\salva\Documents\Universidade\Semestre 2\AED\Antigo Aluno\Antigo Aluno\obj\Debug\net5.0\Antigo Aluno.csprojAssemblyReference.cache
+C:\Users\salva\Documents\Universidade\Semestre 2\AED\Antigo Aluno\Antigo Aluno\obj\Debug\net5.0\Antigo Aluno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salva\Documents\Universidade\Semestre 2\AED\Antigo Aluno\Antigo Aluno\obj\Debug\net5.0\Antigo Aluno.AssemblyInfoInputs.cache
+C:\Users\salva\Documents\Universidade\Semestre 2\AED\Antigo Aluno\Antigo Aluno\obj\Debug\net5.0\Antigo Aluno.AssemblyInfo.cs
+C:\Users\salva\Documents\Universidade\Semestre 2\AED\Antigo Aluno\Antigo Aluno\obj\Debug\net5.0\Antigo Aluno.csproj.CoreCompileInputs.cache
+C:\Users\salva\Documents\Universidade\Semestre 2\AED\Antigo Aluno\Antigo Aluno\obj\Debug\net5.0\Antigo Aluno.dll
+C:\Users\salva\Documents\Universidade\Semestre 2\AED\Antigo Aluno\Antigo Aluno\obj\Debug\net5.0\ref\Antigo Aluno.dll
+C:\Users\salva\Documents\Universidade\Semestre 2\AED\Antigo Aluno\Antigo Aluno\obj\Debug\net5.0\Antigo Aluno.pdb
+C:\Users\salva\Documents\Universidade\Semestre 2\AED\Antigo Aluno\Antigo Aluno\obj\Debug\net5.0\Antigo Aluno.genruntimeconfig.cache
+C:\Users\salva\Documents\Universidade\Semestre 2\AED\Antigo Aluno Ordenado Nr\Antigo Aluno\bin\Debug\net5.0\Antigo Aluno.exe
+C:\Users\salva\Documents\Universidade\Semestre 2\AED\Antigo Aluno Ordenado Nr\Antigo Aluno\bin\Debug\net5.0\Antigo Aluno.deps.json
+C:\Users\salva\Documents\Universidade\Semestre 2\AED\Antigo Aluno Ordenado Nr\Antigo Aluno\bin\Debug\net5.0\Antigo Aluno.runtimeconfig.json
+C:\Users\salva\Documents\Universidade\Semestre 2\AED\Antigo Aluno Ordenado Nr\Antigo Aluno\bin\Debug\net5.0\Antigo Aluno.runtimeconfig.dev.json
+C:\Users\salva\Documents\Universidade\Semestre 2\AED\Antigo Aluno Ordenado Nr\Antigo Aluno\bin\Debug\net5.0\Antigo Aluno.dll
+C:\Users\salva\Documents\Universidade\Semestre 2\AED\Antigo Aluno Ordenado Nr\Antigo Aluno\bin\Debug\net5.0\ref\Antigo Aluno.dll
+C:\Users\salva\Documents\Universidade\Semestre 2\AED\Antigo Aluno Ordenado Nr\Antigo Aluno\bin\Debug\net5.0\Antigo Aluno.pdb
+C:\Users\salva\Documents\Universidade\Semestre 2\AED\Antigo Aluno Ordenado Nr\Antigo Aluno\obj\Debug\net5.0\Antigo Aluno.csprojAssemblyReference.cache
+C:\Users\salva\Documents\Universidade\Semestre 2\AED\Antigo Aluno Ordenado Nr\Antigo Aluno\obj\Debug\net5.0\Antigo Aluno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salva\Documents\Universidade\Semestre 2\AED\Antigo Aluno Ordenado Nr\Antigo Aluno\obj\Debug\net5.0\Antigo Aluno.AssemblyInfoInputs.cache
+C:\Users\salva\Documents\Universidade\Semestre 2\AED\Antigo Aluno Ordenado Nr\Antigo Aluno\obj\Debug\net5.0\Antigo Aluno.AssemblyInfo.cs
+C:\Users\salva\Documents\Universidade\Semestre 2\AED\Antigo Aluno Ordenado Nr\Antigo Aluno\obj\Debug\net5.0\Antigo Aluno.csproj.CoreCompileInputs.cache
+C:\Users\salva\Documents\Universidade\Semestre 2\AED\Antigo Aluno Ordenado Nr\Antigo Aluno\obj\Debug\net5.0\Antigo Aluno.dll
+C:\Users\salva\Documents\Universidade\Semestre 2\AED\Antigo Aluno Ordenado Nr\Antigo Aluno\obj\Debug\net5.0\ref\Antigo Aluno.dll
+C:\Users\salva\Documents\Universidade\Semestre 2\AED\Antigo Aluno Ordenado Nr\Antigo Aluno\obj\Debug\net5.0\Antigo Aluno.pdb
+C:\Users\salva\Documents\Universidade\Semestre 2\AED\Antigo Aluno Ordenado Nr\Antigo Aluno\obj\Debug\net5.0\Antigo Aluno.genruntimeconfig.cache

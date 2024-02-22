@@ -1,0 +1,7 @@
+C:\MRH\Ric\ISMAI\Ano202021\CTeSP_AED\ExerciciosAulas\Aula20210528_ListaComOrdem\Aula20210528_ListaComOrdem\bin\Debug\Aula20210528_ListaComOrdem.exe.config
+C:\MRH\Ric\ISMAI\Ano202021\CTeSP_AED\ExerciciosAulas\Aula20210528_ListaComOrdem\Aula20210528_ListaComOrdem\bin\Debug\Aula20210528_ListaComOrdem.exe
+C:\MRH\Ric\ISMAI\Ano202021\CTeSP_AED\ExerciciosAulas\Aula20210528_ListaComOrdem\Aula20210528_ListaComOrdem\bin\Debug\Aula20210528_ListaComOrdem.pdb
+C:\MRH\Ric\ISMAI\Ano202021\CTeSP_AED\ExerciciosAulas\Aula20210528_ListaComOrdem\Aula20210528_ListaComOrdem\obj\Debug\Aula20210528_ListaComOrdem.csprojAssemblyReference.cache
+C:\MRH\Ric\ISMAI\Ano202021\CTeSP_AED\ExerciciosAulas\Aula20210528_ListaComOrdem\Aula20210528_ListaComOrdem\obj\Debug\Aula20210528_ListaComOrdem.csproj.CoreCompileInputs.cache
+C:\MRH\Ric\ISMAI\Ano202021\CTeSP_AED\ExerciciosAulas\Aula20210528_ListaComOrdem\Aula20210528_ListaComOrdem\obj\Debug\Aula20210528_ListaComOrdem.exe
+C:\MRH\Ric\ISMAI\Ano202021\CTeSP_AED\ExerciciosAulas\Aula20210528_ListaComOrdem\Aula20210528_ListaComOrdem\obj\Debug\Aula20210528_ListaComOrdem.pdb

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Antigo Aluno/1.0.0": {
+        "runtime": {
+          "Antigo Aluno.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Antigo Aluno/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
