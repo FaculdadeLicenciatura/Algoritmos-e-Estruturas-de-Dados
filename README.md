@@ -1,18 +1,18 @@
-# Metodologias Ágeis de Desenvolvimento de Software (2023/2024)
+# Algoritmos e Estruturas de Dados (2023/2024)
 ## Ferramentas
-- [<kbd> <br> **Moodle** <br> </kbd>](https://moodle.maieutica.pt/course/view.php?id=18705)
+- [<kbd> <br> **Moodle** <br> </kbd>](https://moodle.maieutica.pt/course/view.php?id=)
 - [<kbd> <br> **E-Campus** <br> </kbd>](https://e-campus.ismai.pt/004358/AnoLectivo/2023/Curso_31003/1_Ano/6C1146/default.aspx)
 ## Informações da Disciplina
 ### Descrição 
 --
 ### Testes
 ### Tipo: 
-- [ ] Teórica: 
+- [x] Teórica: 
 - [ ] Prática: 
 - [ ] Teórico-prática: 
 ### Informações do Professor:
-- Nome: 
-- E-Mail: 
+- Nome: x
+- E-Mail: x
 ## Resumos
 
 ## 
