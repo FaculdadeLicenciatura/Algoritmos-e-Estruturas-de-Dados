@@ -1,0 +1,7 @@
+D:\Projetos\Universidade\C#\CTeSP\EAD\EAD\bin\Debug\EAD.exe.config
+D:\Projetos\Universidade\C#\CTeSP\EAD\EAD\bin\Debug\EAD.exe
+D:\Projetos\Universidade\C#\CTeSP\EAD\EAD\bin\Debug\EAD.pdb
+D:\Projetos\Universidade\C#\CTeSP\EAD\EAD\obj\Debug\EAD.csprojAssemblyReference.cache
+D:\Projetos\Universidade\C#\CTeSP\EAD\EAD\obj\Debug\EAD.csproj.CoreCompileInputs.cache
+D:\Projetos\Universidade\C#\CTeSP\EAD\EAD\obj\Debug\EAD.exe
+D:\Projetos\Universidade\C#\CTeSP\EAD\EAD\obj\Debug\EAD.pdb

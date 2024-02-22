@@ -1,0 +1,52 @@
+C:\Users\henri\Documents\ex11\ex11\bin\Debug\netcoreapp3.1\ex11.exe
+C:\Users\henri\Documents\ex11\ex11\bin\Debug\netcoreapp3.1\ex11.deps.json
+C:\Users\henri\Documents\ex11\ex11\bin\Debug\netcoreapp3.1\ex11.runtimeconfig.json
+C:\Users\henri\Documents\ex11\ex11\bin\Debug\netcoreapp3.1\ex11.runtimeconfig.dev.json
+C:\Users\henri\Documents\ex11\ex11\bin\Debug\netcoreapp3.1\ex11.dll
+C:\Users\henri\Documents\ex11\ex11\bin\Debug\netcoreapp3.1\ex11.pdb
+C:\Users\henri\Documents\ex11\ex11\obj\Debug\netcoreapp3.1\ex11.csprojAssemblyReference.cache
+C:\Users\henri\Documents\ex11\ex11\obj\Debug\netcoreapp3.1\ex11.AssemblyInfoInputs.cache
+C:\Users\henri\Documents\ex11\ex11\obj\Debug\netcoreapp3.1\ex11.AssemblyInfo.cs
+C:\Users\henri\Documents\ex11\ex11\obj\Debug\netcoreapp3.1\ex11.csproj.CoreCompileInputs.cache
+C:\Users\henri\Documents\ex11\ex11\obj\Debug\netcoreapp3.1\ex11.dll
+C:\Users\henri\Documents\ex11\ex11\obj\Debug\netcoreapp3.1\ex11.pdb
+C:\Users\henri\Documents\ex11\ex11\obj\Debug\netcoreapp3.1\ex11.genruntimeconfig.cache
+C:\Users\henri\Documents\ex12pasta\ex11\ex11\bin\Debug\netcoreapp3.1\ex11.exe
+C:\Users\henri\Documents\ex12pasta\ex11\ex11\bin\Debug\netcoreapp3.1\ex11.deps.json
+C:\Users\henri\Documents\ex12pasta\ex11\ex11\bin\Debug\netcoreapp3.1\ex11.runtimeconfig.json
+C:\Users\henri\Documents\ex12pasta\ex11\ex11\bin\Debug\netcoreapp3.1\ex11.runtimeconfig.dev.json
+C:\Users\henri\Documents\ex12pasta\ex11\ex11\bin\Debug\netcoreapp3.1\ex11.dll
+C:\Users\henri\Documents\ex12pasta\ex11\ex11\bin\Debug\netcoreapp3.1\ex11.pdb
+C:\Users\henri\Documents\ex12pasta\ex11\ex11\obj\Debug\netcoreapp3.1\ex11.csprojAssemblyReference.cache
+C:\Users\henri\Documents\ex12pasta\ex11\ex11\obj\Debug\netcoreapp3.1\ex11.AssemblyInfoInputs.cache
+C:\Users\henri\Documents\ex12pasta\ex11\ex11\obj\Debug\netcoreapp3.1\ex11.AssemblyInfo.cs
+C:\Users\henri\Documents\ex12pasta\ex11\ex11\obj\Debug\netcoreapp3.1\ex11.csproj.CoreCompileInputs.cache
+C:\Users\henri\Documents\ex12pasta\ex11\ex11\obj\Debug\netcoreapp3.1\ex11.dll
+C:\Users\henri\Documents\ex12pasta\ex11\ex11\obj\Debug\netcoreapp3.1\ex11.pdb
+C:\Users\henri\Documents\ex12pasta\ex11\ex11\obj\Debug\netcoreapp3.1\ex11.genruntimeconfig.cache
+C:\Users\diogo\Downloads\ex12pasta\ex11\ex11\bin\Debug\netcoreapp3.1\ex11.exe
+C:\Users\diogo\Downloads\ex12pasta\ex11\ex11\bin\Debug\netcoreapp3.1\ex11.deps.json
+C:\Users\diogo\Downloads\ex12pasta\ex11\ex11\bin\Debug\netcoreapp3.1\ex11.runtimeconfig.json
+C:\Users\diogo\Downloads\ex12pasta\ex11\ex11\bin\Debug\netcoreapp3.1\ex11.runtimeconfig.dev.json
+C:\Users\diogo\Downloads\ex12pasta\ex11\ex11\bin\Debug\netcoreapp3.1\ex11.dll
+C:\Users\diogo\Downloads\ex12pasta\ex11\ex11\bin\Debug\netcoreapp3.1\ex11.pdb
+C:\Users\diogo\Downloads\ex12pasta\ex11\ex11\obj\Debug\netcoreapp3.1\ex11.csprojAssemblyReference.cache
+C:\Users\diogo\Downloads\ex12pasta\ex11\ex11\obj\Debug\netcoreapp3.1\ex11.AssemblyInfoInputs.cache
+C:\Users\diogo\Downloads\ex12pasta\ex11\ex11\obj\Debug\netcoreapp3.1\ex11.AssemblyInfo.cs
+C:\Users\diogo\Downloads\ex12pasta\ex11\ex11\obj\Debug\netcoreapp3.1\ex11.csproj.CoreCompileInputs.cache
+C:\Users\diogo\Downloads\ex12pasta\ex11\ex11\obj\Debug\netcoreapp3.1\ex11.dll
+C:\Users\diogo\Downloads\ex12pasta\ex11\ex11\obj\Debug\netcoreapp3.1\ex11.pdb
+C:\Users\diogo\Downloads\ex12pasta\ex11\ex11\obj\Debug\netcoreapp3.1\ex11.genruntimeconfig.cache
+D:\Projetos\Universidade\C#\CTeSP\Global AED\Trabalhos\Er_ex11\ex11\bin\Debug\netcoreapp3.1\ex11.exe
+D:\Projetos\Universidade\C#\CTeSP\Global AED\Trabalhos\Er_ex11\ex11\bin\Debug\netcoreapp3.1\ex11.deps.json
+D:\Projetos\Universidade\C#\CTeSP\Global AED\Trabalhos\Er_ex11\ex11\bin\Debug\netcoreapp3.1\ex11.runtimeconfig.json
+D:\Projetos\Universidade\C#\CTeSP\Global AED\Trabalhos\Er_ex11\ex11\bin\Debug\netcoreapp3.1\ex11.runtimeconfig.dev.json
+D:\Projetos\Universidade\C#\CTeSP\Global AED\Trabalhos\Er_ex11\ex11\bin\Debug\netcoreapp3.1\ex11.dll
+D:\Projetos\Universidade\C#\CTeSP\Global AED\Trabalhos\Er_ex11\ex11\bin\Debug\netcoreapp3.1\ex11.pdb
+D:\Projetos\Universidade\C#\CTeSP\Global AED\Trabalhos\Er_ex11\ex11\obj\Debug\netcoreapp3.1\ex11.csprojAssemblyReference.cache
+D:\Projetos\Universidade\C#\CTeSP\Global AED\Trabalhos\Er_ex11\ex11\obj\Debug\netcoreapp3.1\ex11.AssemblyInfoInputs.cache
+D:\Projetos\Universidade\C#\CTeSP\Global AED\Trabalhos\Er_ex11\ex11\obj\Debug\netcoreapp3.1\ex11.AssemblyInfo.cs
+D:\Projetos\Universidade\C#\CTeSP\Global AED\Trabalhos\Er_ex11\ex11\obj\Debug\netcoreapp3.1\ex11.csproj.CoreCompileInputs.cache
+D:\Projetos\Universidade\C#\CTeSP\Global AED\Trabalhos\Er_ex11\ex11\obj\Debug\netcoreapp3.1\ex11.dll
+D:\Projetos\Universidade\C#\CTeSP\Global AED\Trabalhos\Er_ex11\ex11\obj\Debug\netcoreapp3.1\ex11.pdb
+D:\Projetos\Universidade\C#\CTeSP\Global AED\Trabalhos\Er_ex11\ex11\obj\Debug\netcoreapp3.1\ex11.genruntimeconfig.cache
