@@ -1,0 +1,12 @@
+D:\Projetos\Universidade\C#\CTeSP\Global AED\Trabalhos\PilhaNoCSharp-master\bin\Debug\netcoreapp3.0\GarridoHub_Pilhas.exe
+D:\Projetos\Universidade\C#\CTeSP\Global AED\Trabalhos\PilhaNoCSharp-master\bin\Debug\netcoreapp3.0\GarridoHub_Pilhas.deps.json
+D:\Projetos\Universidade\C#\CTeSP\Global AED\Trabalhos\PilhaNoCSharp-master\bin\Debug\netcoreapp3.0\GarridoHub_Pilhas.runtimeconfig.json
+D:\Projetos\Universidade\C#\CTeSP\Global AED\Trabalhos\PilhaNoCSharp-master\bin\Debug\netcoreapp3.0\GarridoHub_Pilhas.runtimeconfig.dev.json
+D:\Projetos\Universidade\C#\CTeSP\Global AED\Trabalhos\PilhaNoCSharp-master\bin\Debug\netcoreapp3.0\GarridoHub_Pilhas.dll
+D:\Projetos\Universidade\C#\CTeSP\Global AED\Trabalhos\PilhaNoCSharp-master\bin\Debug\netcoreapp3.0\GarridoHub_Pilhas.pdb
+D:\Projetos\Universidade\C#\CTeSP\Global AED\Trabalhos\PilhaNoCSharp-master\obj\Debug\netcoreapp3.0\GarridoHub_Pilhas.AssemblyInfoInputs.cache
+D:\Projetos\Universidade\C#\CTeSP\Global AED\Trabalhos\PilhaNoCSharp-master\obj\Debug\netcoreapp3.0\GarridoHub_Pilhas.AssemblyInfo.cs
+D:\Projetos\Universidade\C#\CTeSP\Global AED\Trabalhos\PilhaNoCSharp-master\obj\Debug\netcoreapp3.0\GarridoHub_Pilhas.csproj.CoreCompileInputs.cache
+D:\Projetos\Universidade\C#\CTeSP\Global AED\Trabalhos\PilhaNoCSharp-master\obj\Debug\netcoreapp3.0\GarridoHub_Pilhas.dll
+D:\Projetos\Universidade\C#\CTeSP\Global AED\Trabalhos\PilhaNoCSharp-master\obj\Debug\netcoreapp3.0\GarridoHub_Pilhas.pdb
+D:\Projetos\Universidade\C#\CTeSP\Global AED\Trabalhos\PilhaNoCSharp-master\obj\Debug\netcoreapp3.0\GarridoHub_Pilhas.genruntimeconfig.cache

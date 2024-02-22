@@ -1,0 +1,7 @@
+C:\Users\d010788\Desktop\mrh\_Temporarios\G2_Turno1\G2_Turno1\bin\Debug\G2_Turno1.exe.config
+C:\Users\d010788\Desktop\mrh\_Temporarios\G2_Turno1\G2_Turno1\bin\Debug\G2_Turno1.exe
+C:\Users\d010788\Desktop\mrh\_Temporarios\G2_Turno1\G2_Turno1\bin\Debug\G2_Turno1.pdb
+C:\Users\d010788\Desktop\mrh\_Temporarios\G2_Turno1\G2_Turno1\obj\Debug\G2_Turno1.csprojAssemblyReference.cache
+C:\Users\d010788\Desktop\mrh\_Temporarios\G2_Turno1\G2_Turno1\obj\Debug\G2_Turno1.csproj.CoreCompileInputs.cache
+C:\Users\d010788\Desktop\mrh\_Temporarios\G2_Turno1\G2_Turno1\obj\Debug\G2_Turno1.exe
+C:\Users\d010788\Desktop\mrh\_Temporarios\G2_Turno1\G2_Turno1\obj\Debug\G2_Turno1.pdb

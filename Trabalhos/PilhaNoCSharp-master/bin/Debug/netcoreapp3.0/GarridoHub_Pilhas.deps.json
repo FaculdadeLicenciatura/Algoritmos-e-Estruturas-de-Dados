@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "GarridoHub_Pilhas/1.0.0": {
+        "runtime": {
+          "GarridoHub_Pilhas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GarridoHub_Pilhas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
