@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "teste_cSharp_console/1.0.0": {
+        "runtime": {
+          "teste_cSharp_console.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "teste_cSharp_console/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

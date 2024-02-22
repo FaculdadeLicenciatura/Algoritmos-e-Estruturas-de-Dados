@@ -1,0 +1,13 @@
+C:\Users\ricardo\source\repos\teste_cSharp_console\teste_cSharp_console\bin\Debug\netcoreapp3.1\teste_cSharp_console.exe
+C:\Users\ricardo\source\repos\teste_cSharp_console\teste_cSharp_console\bin\Debug\netcoreapp3.1\teste_cSharp_console.deps.json
+C:\Users\ricardo\source\repos\teste_cSharp_console\teste_cSharp_console\bin\Debug\netcoreapp3.1\teste_cSharp_console.runtimeconfig.json
+C:\Users\ricardo\source\repos\teste_cSharp_console\teste_cSharp_console\bin\Debug\netcoreapp3.1\teste_cSharp_console.runtimeconfig.dev.json
+C:\Users\ricardo\source\repos\teste_cSharp_console\teste_cSharp_console\bin\Debug\netcoreapp3.1\teste_cSharp_console.dll
+C:\Users\ricardo\source\repos\teste_cSharp_console\teste_cSharp_console\bin\Debug\netcoreapp3.1\teste_cSharp_console.pdb
+C:\Users\ricardo\source\repos\teste_cSharp_console\teste_cSharp_console\obj\Debug\netcoreapp3.1\teste_cSharp_console.csprojAssemblyReference.cache
+C:\Users\ricardo\source\repos\teste_cSharp_console\teste_cSharp_console\obj\Debug\netcoreapp3.1\teste_cSharp_console.AssemblyInfoInputs.cache
+C:\Users\ricardo\source\repos\teste_cSharp_console\teste_cSharp_console\obj\Debug\netcoreapp3.1\teste_cSharp_console.AssemblyInfo.cs
+C:\Users\ricardo\source\repos\teste_cSharp_console\teste_cSharp_console\obj\Debug\netcoreapp3.1\teste_cSharp_console.csproj.CoreCompileInputs.cache
+C:\Users\ricardo\source\repos\teste_cSharp_console\teste_cSharp_console\obj\Debug\netcoreapp3.1\teste_cSharp_console.dll
+C:\Users\ricardo\source\repos\teste_cSharp_console\teste_cSharp_console\obj\Debug\netcoreapp3.1\teste_cSharp_console.pdb
+C:\Users\ricardo\source\repos\teste_cSharp_console\teste_cSharp_console\obj\Debug\netcoreapp3.1\teste_cSharp_console.genruntimeconfig.cache

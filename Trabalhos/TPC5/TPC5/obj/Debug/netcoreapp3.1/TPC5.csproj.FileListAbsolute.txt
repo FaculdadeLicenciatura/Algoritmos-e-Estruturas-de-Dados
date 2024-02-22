@@ -1,0 +1,13 @@
+C:\Users\AlexandreViana\source\repos\TPC5\TPC5\bin\Debug\netcoreapp3.1\TPC5.exe
+C:\Users\AlexandreViana\source\repos\TPC5\TPC5\bin\Debug\netcoreapp3.1\TPC5.deps.json
+C:\Users\AlexandreViana\source\repos\TPC5\TPC5\bin\Debug\netcoreapp3.1\TPC5.runtimeconfig.json
+C:\Users\AlexandreViana\source\repos\TPC5\TPC5\bin\Debug\netcoreapp3.1\TPC5.runtimeconfig.dev.json
+C:\Users\AlexandreViana\source\repos\TPC5\TPC5\bin\Debug\netcoreapp3.1\TPC5.dll
+C:\Users\AlexandreViana\source\repos\TPC5\TPC5\bin\Debug\netcoreapp3.1\TPC5.pdb
+C:\Users\AlexandreViana\source\repos\TPC5\TPC5\obj\Debug\netcoreapp3.1\TPC5.csprojAssemblyReference.cache
+C:\Users\AlexandreViana\source\repos\TPC5\TPC5\obj\Debug\netcoreapp3.1\TPC5.AssemblyInfoInputs.cache
+C:\Users\AlexandreViana\source\repos\TPC5\TPC5\obj\Debug\netcoreapp3.1\TPC5.AssemblyInfo.cs
+C:\Users\AlexandreViana\source\repos\TPC5\TPC5\obj\Debug\netcoreapp3.1\TPC5.csproj.CoreCompileInputs.cache
+C:\Users\AlexandreViana\source\repos\TPC5\TPC5\obj\Debug\netcoreapp3.1\TPC5.dll
+C:\Users\AlexandreViana\source\repos\TPC5\TPC5\obj\Debug\netcoreapp3.1\TPC5.pdb
+C:\Users\AlexandreViana\source\repos\TPC5\TPC5\obj\Debug\netcoreapp3.1\TPC5.genruntimeconfig.cache
