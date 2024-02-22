@@ -1,0 +1,7 @@
+C:\A038702\A038702\Aula20210427_Stack\bin\Debug\Aula20210427_Stack.exe.config
+C:\A038702\A038702\Aula20210427_Stack\bin\Debug\Aula20210427_Stack.exe
+C:\A038702\A038702\Aula20210427_Stack\bin\Debug\Aula20210427_Stack.pdb
+C:\A038702\A038702\Aula20210427_Stack\obj\Debug\Aula20210427_Stack.csprojAssemblyReference.cache
+C:\A038702\A038702\Aula20210427_Stack\obj\Debug\Aula20210427_Stack.csproj.CoreCompileInputs.cache
+C:\A038702\A038702\Aula20210427_Stack\obj\Debug\Aula20210427_Stack.exe
+C:\A038702\A038702\Aula20210427_Stack\obj\Debug\Aula20210427_Stack.pdb
