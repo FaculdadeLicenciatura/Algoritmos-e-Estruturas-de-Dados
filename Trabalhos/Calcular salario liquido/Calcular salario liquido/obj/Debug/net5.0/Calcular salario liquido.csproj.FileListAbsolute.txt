@@ -1,0 +1,32 @@
+C:\Users\salva\Desktop\TRABALHO DE GRUPO\Calcular salario liquido\Calcular salario liquido\bin\Debug\net5.0\Calcular salario liquido.exe
+C:\Users\salva\Desktop\TRABALHO DE GRUPO\Calcular salario liquido\Calcular salario liquido\bin\Debug\net5.0\Calcular salario liquido.deps.json
+C:\Users\salva\Desktop\TRABALHO DE GRUPO\Calcular salario liquido\Calcular salario liquido\bin\Debug\net5.0\Calcular salario liquido.runtimeconfig.json
+C:\Users\salva\Desktop\TRABALHO DE GRUPO\Calcular salario liquido\Calcular salario liquido\bin\Debug\net5.0\Calcular salario liquido.runtimeconfig.dev.json
+C:\Users\salva\Desktop\TRABALHO DE GRUPO\Calcular salario liquido\Calcular salario liquido\bin\Debug\net5.0\Calcular salario liquido.dll
+C:\Users\salva\Desktop\TRABALHO DE GRUPO\Calcular salario liquido\Calcular salario liquido\bin\Debug\net5.0\ref\Calcular salario liquido.dll
+C:\Users\salva\Desktop\TRABALHO DE GRUPO\Calcular salario liquido\Calcular salario liquido\bin\Debug\net5.0\Calcular salario liquido.pdb
+C:\Users\salva\Desktop\TRABALHO DE GRUPO\Calcular salario liquido\Calcular salario liquido\obj\Debug\net5.0\Calcular salario liquido.csprojAssemblyReference.cache
+C:\Users\salva\Desktop\TRABALHO DE GRUPO\Calcular salario liquido\Calcular salario liquido\obj\Debug\net5.0\Calcular salario liquido.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salva\Desktop\TRABALHO DE GRUPO\Calcular salario liquido\Calcular salario liquido\obj\Debug\net5.0\Calcular salario liquido.AssemblyInfoInputs.cache
+C:\Users\salva\Desktop\TRABALHO DE GRUPO\Calcular salario liquido\Calcular salario liquido\obj\Debug\net5.0\Calcular salario liquido.AssemblyInfo.cs
+C:\Users\salva\Desktop\TRABALHO DE GRUPO\Calcular salario liquido\Calcular salario liquido\obj\Debug\net5.0\Calcular salario liquido.csproj.CoreCompileInputs.cache
+C:\Users\salva\Desktop\TRABALHO DE GRUPO\Calcular salario liquido\Calcular salario liquido\obj\Debug\net5.0\Calcular salario liquido.dll
+C:\Users\salva\Desktop\TRABALHO DE GRUPO\Calcular salario liquido\Calcular salario liquido\obj\Debug\net5.0\ref\Calcular salario liquido.dll
+C:\Users\salva\Desktop\TRABALHO DE GRUPO\Calcular salario liquido\Calcular salario liquido\obj\Debug\net5.0\Calcular salario liquido.pdb
+C:\Users\salva\Desktop\TRABALHO DE GRUPO\Calcular salario liquido\Calcular salario liquido\obj\Debug\net5.0\Calcular salario liquido.genruntimeconfig.cache
+C:\Users\salva\Documents\Universidade\Semestre 2\AED\Trabalhos\Trabalho Grupo 6\Calcular salario liquido\Calcular salario liquido\bin\Debug\net5.0\Calcular salario liquido.exe
+C:\Users\salva\Documents\Universidade\Semestre 2\AED\Trabalhos\Trabalho Grupo 6\Calcular salario liquido\Calcular salario liquido\bin\Debug\net5.0\Calcular salario liquido.deps.json
+C:\Users\salva\Documents\Universidade\Semestre 2\AED\Trabalhos\Trabalho Grupo 6\Calcular salario liquido\Calcular salario liquido\bin\Debug\net5.0\Calcular salario liquido.runtimeconfig.json
+C:\Users\salva\Documents\Universidade\Semestre 2\AED\Trabalhos\Trabalho Grupo 6\Calcular salario liquido\Calcular salario liquido\bin\Debug\net5.0\Calcular salario liquido.runtimeconfig.dev.json
+C:\Users\salva\Documents\Universidade\Semestre 2\AED\Trabalhos\Trabalho Grupo 6\Calcular salario liquido\Calcular salario liquido\bin\Debug\net5.0\Calcular salario liquido.dll
+C:\Users\salva\Documents\Universidade\Semestre 2\AED\Trabalhos\Trabalho Grupo 6\Calcular salario liquido\Calcular salario liquido\bin\Debug\net5.0\ref\Calcular salario liquido.dll
+C:\Users\salva\Documents\Universidade\Semestre 2\AED\Trabalhos\Trabalho Grupo 6\Calcular salario liquido\Calcular salario liquido\bin\Debug\net5.0\Calcular salario liquido.pdb
+C:\Users\salva\Documents\Universidade\Semestre 2\AED\Trabalhos\Trabalho Grupo 6\Calcular salario liquido\Calcular salario liquido\obj\Debug\net5.0\Calcular salario liquido.csprojAssemblyReference.cache
+C:\Users\salva\Documents\Universidade\Semestre 2\AED\Trabalhos\Trabalho Grupo 6\Calcular salario liquido\Calcular salario liquido\obj\Debug\net5.0\Calcular salario liquido.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salva\Documents\Universidade\Semestre 2\AED\Trabalhos\Trabalho Grupo 6\Calcular salario liquido\Calcular salario liquido\obj\Debug\net5.0\Calcular salario liquido.AssemblyInfoInputs.cache
+C:\Users\salva\Documents\Universidade\Semestre 2\AED\Trabalhos\Trabalho Grupo 6\Calcular salario liquido\Calcular salario liquido\obj\Debug\net5.0\Calcular salario liquido.AssemblyInfo.cs
+C:\Users\salva\Documents\Universidade\Semestre 2\AED\Trabalhos\Trabalho Grupo 6\Calcular salario liquido\Calcular salario liquido\obj\Debug\net5.0\Calcular salario liquido.csproj.CoreCompileInputs.cache
+C:\Users\salva\Documents\Universidade\Semestre 2\AED\Trabalhos\Trabalho Grupo 6\Calcular salario liquido\Calcular salario liquido\obj\Debug\net5.0\Calcular salario liquido.dll
+C:\Users\salva\Documents\Universidade\Semestre 2\AED\Trabalhos\Trabalho Grupo 6\Calcular salario liquido\Calcular salario liquido\obj\Debug\net5.0\ref\Calcular salario liquido.dll
+C:\Users\salva\Documents\Universidade\Semestre 2\AED\Trabalhos\Trabalho Grupo 6\Calcular salario liquido\Calcular salario liquido\obj\Debug\net5.0\Calcular salario liquido.pdb
+C:\Users\salva\Documents\Universidade\Semestre 2\AED\Trabalhos\Trabalho Grupo 6\Calcular salario liquido\Calcular salario liquido\obj\Debug\net5.0\Calcular salario liquido.genruntimeconfig.cache

@@ -1,0 +1,6 @@
+D:\Projetos\Universidade\C#\CTeSP\Global AED\Global AED\bin\Debug\Global AED.exe
+D:\Projetos\Universidade\C#\CTeSP\Global AED\Global AED\bin\Debug\Global AED.pdb
+D:\Projetos\Universidade\C#\CTeSP\Global AED\Global AED\obj\Debug\Global AED.csprojAssemblyReference.cache
+D:\Projetos\Universidade\C#\CTeSP\Global AED\Global AED\obj\Debug\Global AED.csproj.CoreCompileInputs.cache
+D:\Projetos\Universidade\C#\CTeSP\Global AED\Global AED\obj\Debug\Global AED.exe
+D:\Projetos\Universidade\C#\CTeSP\Global AED\Global AED\obj\Debug\Global AED.pdb

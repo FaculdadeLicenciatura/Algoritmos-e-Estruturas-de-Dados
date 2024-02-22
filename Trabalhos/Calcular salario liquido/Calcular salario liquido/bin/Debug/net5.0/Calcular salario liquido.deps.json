@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Calcular salario liquido/1.0.0": {
+        "runtime": {
+          "Calcular salario liquido.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Calcular salario liquido/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
